@@ -1,20 +1,10 @@
 [
-
-  {
-    "name": "elves-origin",
-    "description": "Elves Origins(DX7)",
-    "site": "https://elvesro.com/",
-    "hpAddress": "014757AC",
-    "nameAddress": "014757AC",
-    "hpAddressPointer": 18684420,
-    "nameAddressPointer": 18654836
-  },
   {
     "name": "elves-origin",
     "description": "Elves Origins(DX9)",
     "site": "https://elvesro.com/",
-    "hpAddress": "000001453C2C",
-    "nameAddress": "000001456678",
+    "hpAddress": "014757AC",
+    "nameAddress": "014781F8",
     "hpAddressPointer": 18684420,
     "nameAddressPointer": 18654836
   }
